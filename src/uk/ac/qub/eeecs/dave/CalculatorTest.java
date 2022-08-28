@@ -13,7 +13,7 @@ class CalculatorTest {
 	}
 	
 	@Test
-	void testSub() {
+	void testsSub() {
 		Calculator c = new Calculator();
 		assertEquals(c.sub(10,1), 9);
 	}
